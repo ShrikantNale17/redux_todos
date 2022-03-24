@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+ */
+
+button {
+  margin: 0 5px;
+}
+
+#badge-link {
+  cursor: pointer;
 }
